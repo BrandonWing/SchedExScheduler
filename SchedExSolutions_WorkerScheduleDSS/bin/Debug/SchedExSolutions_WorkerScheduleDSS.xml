@@ -1,0 +1,401 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SchedExSolutions_WorkerScheduleDSS
+</name>
+</assembly>
+<members>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SchedExSolutions_WorkerScheduleDSS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SchedExSolutions_WorkerScheduleDSS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SchedExSolutions_WorkerScheduleDSS.My.Resources.Resources.photo__7_22_59_PM_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSet.EmployeeLoginCredsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSet.EmployeeLoginCredsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSet.EmployeeLoginCredsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSetTableAdapters.EmployeeLoginCredsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSetTableAdapters.TableAdapterManager.UpdateAll(SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexLoginDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee10AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee11AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee1AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee2AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee3AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee4AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee5AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee6AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee7AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee8AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee9AvailabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.EmployeeInfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.SchedularRequirementsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee10AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee11AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee1AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee2AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee3AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee4AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee5AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee6AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee7AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee8AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee9AvailabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.EmployeeInfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.SchedularRequirementsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee10AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee11AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee1AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee2AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee3AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee4AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee5AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee6AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee7AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee8AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.Employee9AvailabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.EmployeeInfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet.SchedularRequirementsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee10AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee11AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee1AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee2AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee3AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee4AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee5AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee6AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee7AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee8AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.Employee9AvailabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.EmployeeInfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.SchedularRequirementsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.TableAdapterManager.UpdateAll(SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SchedExSolutions_WorkerScheduleDSS.SchedexRevisedDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

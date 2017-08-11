@@ -1,0 +1,56 @@
+C:\Users\Will\Desktop\3444\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.exe.config
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.exe.config
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.vbprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.ManagersRequest.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.Resources.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.vbproj.GenerateResource.Cache
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.exe
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.pdb
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.exe
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.pdb
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.exe.config
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.exe
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.xml
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.pdb
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.exe
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.pdb
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.xml
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.ManagersRequest.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.Resources.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.Solution.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.vbproj.GenerateResource.Cache
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedexLogin.accdb
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.EmployeeAvailability.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.EmployeeLandingPage.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.frmEmployeeLogin.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.HelpForm.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.ManagerLandingPage.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.frmManagerLogin.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.Team16picture.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.WeeklyWorkRequirements.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.frmWelcomePage.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.vbprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedexLogin.accdb
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.EmployeeAvailability.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.EmployeeLandingPage.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.frmEmployeeLogin.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.HelpForm.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.ManagerLandingPage.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.frmManagerLogin.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.Team16picture.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.WeeklyWorkRequirements.resources
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.frmWelcomePage.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedexRevised.accdb
+C:\Users\Will\Desktop\3444\SchedExSolutions_WorkerScheduleDSS\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedExSolutions_WorkerScheduleDSS.exe.config
+C:\Users\Will\Desktop\3444\SchedExSolutions_WorkerScheduleDSS\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.exe
+C:\Users\Will\Desktop\3444\SchedExSolutions_WorkerScheduleDSS\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.xml
+C:\Users\Will\Desktop\3444\SchedExSolutions_WorkerScheduleDSS\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.pdb
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\bin\Debug\SchedexRevised.accdb
+C:\Users\brand\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.NewSchedule.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SchedExSolutions_WorkerScheduleDSS\obj\Debug\SchedExSolutions_WorkerScheduleDSS.NewSchedule.resources
